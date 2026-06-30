@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NormanOS
 
 > **NormanOS** is an event-driven robotics operating system that powers **Norman**, an AI Engineering Assistant designed to understand natural language, reason about tasks, and eventually interact with the physical world.
@@ -213,3 +214,6 @@ Project Norman is a long-term engineering project exploring artificial intellige
 Currently private.
 
 Future license to be determined.
+=======
+# NormanOS
+>>>>>>> 20ac8a7e395db6c143f95066a8a588649453df03
